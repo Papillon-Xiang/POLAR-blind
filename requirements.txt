@@ -1,7 +1,14 @@
-numpy>=1.21.0
-pandas>=1.3.0
-scikit-learn>=1.0.0
-scipy>=1.7.0
-matplotlib>=3.4.0
-joblib>=1.0.0
-torch>=1.9.0
+# POLAR (Python) requirements
+# Python: 3.9.21
+
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.12.0
+scikit-learn==1.6.0
+joblib==1.4.2
+matplotlib==3.9.4
+tqdm==4.67.1
+GPy==1.13.2
+paramz==0.9.6
+psutil==6.1.0
+
